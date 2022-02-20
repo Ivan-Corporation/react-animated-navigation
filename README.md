@@ -2,7 +2,6 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 ![NPM](https://img.shields.io/npm/l/react-animated-navigation)
 ![npm](https://img.shields.io/npm/dm/react-animated-navigation)
-![GitHub stars](https://img.shields.io/github/stars/Ivan-Corporation/react-animated-navigation?style=social)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-animated-navigation)
 
 
