@@ -8,16 +8,17 @@
 
 # Beauty animated navigation menu for ```react```
 
-### This beauty navigation menu can help you made improve your static site with another layout and animate navigation links
+### This beauty navigation menu can help you made improve your static site with another layout and animate navigation links. It's not destroy your app because it's just make new layout and almost all functionality write on scss without ts
 
 
 
 
 
-## Example:
+## Examples:
 ---
 
 <img src='./menu-nav.gif'>
+<img src='./1.png'>
 
 ### Check demo here:
 ### https://komolio.netlify.app/
