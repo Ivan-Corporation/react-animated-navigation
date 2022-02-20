@@ -34,7 +34,7 @@ yarn add react-animated-navigation
 ## Usage:
 ```jsx
 // don't forget change props
-import { KomaNavigation } from '../.';
+import { KomaNavigation } from 'react-animated-navigation';
 
 
 const App = () => {
