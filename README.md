@@ -3,6 +3,8 @@
 ![NPM](https://img.shields.io/npm/l/react-animated-navigation)
 ![npm](https://img.shields.io/npm/dm/react-animated-navigation)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-animated-navigation)
+![GitHub stars](https://img.shields.io/github/stars/Ivan-Corporation/react-animated-navigation?style=social)
+
 
 
 # Beauty animated navigation menu for ```react```
